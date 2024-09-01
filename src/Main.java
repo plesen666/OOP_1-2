@@ -21,6 +21,7 @@ public class Main {
         Slytherin grahamMontague = new Slytherin("Graham", "Montague", 34, 21, 34, 42, 15, 12, 43);
         Slytherin gregoryGoyle = new Slytherin("Gregory", "Goyle", 32, 25, 32, 29, 43, 43, 55);
 
+
         System.out.println(hermioneGranger);
         System.out.println(ronWeasley);
         harryPotter.compareStudents(hermioneGranger);
